@@ -1,0 +1,2 @@
+# HITS-Algorithm
+HITS identifies good authorities and hubs for a topic by assigning two numbers to a page: an authority and a hub weight. These weights are defined recursively. A higher authority weight occurs if the page is pointed to by pages with high hub weights. A higher hub weight occurs if the page points to many pages with high authority weights. this algorithm is implemented using java programming.
